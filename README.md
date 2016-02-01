@@ -24,3 +24,5 @@ mass of air in baloon: 7.58901883216  grams
 air flow rate : 4.49054368767  grams/msec
 baloon thrust : 367.045633808  mN
 lift capacity : 37.415457065  grams
+
+http://i.imgur.com/CRiePPc.jpg
