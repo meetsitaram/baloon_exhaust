@@ -1,4 +1,7 @@
 # baloon_exhaust
+
+In action: https://vine.co/v/i50ABlhvTBb
+
 Therotical lift capacity varied from 22 to 68 grams changing various parameters. 
 Actual lift capacity was only 12grams 
     (2 penny coins (3.1gram each), baloon and nozzle weighing close to weight of the 2 coins)  
